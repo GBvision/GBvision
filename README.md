@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GBvision
-- 👀 I’m interested in Graphic and Visual Design.
-- 🌱 I’m currently learning HTML, CSS, JS. But I'm also looking into learning Python.
+- 👋 Hi, I’m @GBvision an Italian Design student.
+- 👀 I’m interested in Graphic and Web Design.
+- 🌱 I’m currently learning JS while trying to master HTML and CSS.
+- 💞️ I’m looking to collaborate on creative and stimulating sites and projects.
+
 
 
 <!---
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
